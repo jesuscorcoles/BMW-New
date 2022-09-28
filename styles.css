@@ -1,0 +1,344 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.fondito {
+  background-image: url("./img/P90461726_highRes_the-new-bmw-m4-csl-o.jpeg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 400px;
+  align-items: center;
+}
+
+.cajanav {
+  margin-left: 90px;
+  margin-right: 90px;
+}
+
+.headtam {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  height: 30px;
+}
+
+.options {
+  font-family: sans-serif;
+  font-size: 10px;
+  margin-top: 20px;
+}
+
+.optio-2 {
+  font-family: sans-serif;
+  font-size: 10px;
+}
+
+.lin-ks {
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+}
+
+.linea {
+  width: 100%;
+  height: 1px;
+  margin-top: 5px;
+  background-color: rgb(255, 255, 255);
+  opacity: 20%;
+}
+
+.icons {
+  width: 10px;
+  height: 10px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
+
+.logo {
+  width: 40px;
+  margin-top: 12px;
+}
+
+.caja-tx {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  width: 100%;
+  margin-top: 250px;
+}
+
+.first-tx {
+  margin-left: 30px;
+  margin-right: 30px;
+  width: 100%;
+  height: 70px;
+}
+
+.big-tx {
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+}
+
+.small-tx {
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  color: white;
+}
+
+.boton {
+  width: 140px;
+  margin-top: 10px;
+  background-color: #2657F2;
+}
+
+.but-tx {
+  font-family: sans-serif;
+  font-size: 9px;
+  margin-bottom: 14px;
+}
+
+.mai {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 300px;
+}
+
+.box-types-car {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  height: 200px;
+  margin: 140px 90px 30px 90px;
+}
+
+.types {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0px 10px 0px 10px;
+  width: 100%;
+  height: 40px;
+}
+
+.tpos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: 800;
+  text-decoration: none;
+  color: black;
+  margin-left: 5px;
+}
+
+.sec-tpos {
+  display: flex;
+  flex-wrap: wrap;
+  font-family: sans-serif;
+  justify-content: space-between;
+  font-size: 12px;
+  font-weight: 800;
+  text-decoration: none;
+  margin-top: 3px;
+  margin-right: 5px;
+  color: grey;
+  opacity: 50%;
+}
+
+.lin {
+  width: 100%;
+  height: 1px;
+  margin-top: 5px;
+  background-color: black;
+  opacity: 20%;
+}
+
+.cars-gall {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  height: 130px;
+  margin-top: 5px;
+}
+
+.modelo {
+  width: 120px;
+  height: 130px;
+  margin-bottom: 40px;
+}
+
+.photo {
+  width: 100%;
+}
+
+.name-coche {
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.since {
+  font-family: sans-serif;
+  font-size: 9px;
+  opacity: 40%;
+  margin-bottom: 7px;
+}
+
+.conf {
+  font-family: sans-serif;
+  font-size: 8px;
+  font-weight: 400;
+  margin-top: 3px;
+}
+
+.anuncios {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 300px;
+  margin-top: 100px;
+}
+
+.boxanunci {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0px 80px 0px 80px;
+  width: 100%;
+  height: 180px;
+}
+
+.comercial {
+  width: 120px;
+  height: 130px;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  border: solid rgb(238, 238, 238);
+  border-width: 1px;
+}
+
+.pho {
+  width: 100%;
+}
+
+.com-car {
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.anugrand {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 300px;
+  margin-top: 100px;
+}
+
+.boxanu-gran {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0px 80px 0px 80px;
+  width: 100%;
+  height: 180px;
+}
+
+.comer-cial {
+  width: 280px;
+  height: 190px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  border: solid rgb(238, 238, 238);
+  border-width: 1px;
+}
+
+.pho-gran {
+  width: 100%;
+}
+
+.com-g {
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.anugrand {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 300px;
+  margin-top: 100px;
+}
+
+.boxanu-gran {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0px 80px 0px 80px;
+  width: 100%;
+  height: 180px;
+}
+
+.com-ial {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 40px;
+  margin-left: 90px;
+  margin-right: 90px;
+}
+
+.phogran {
+  width: 120px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-right: 90px;
+  margin-left: 90px;
+}
+
+.fondocolor {
+  background-color: grey;
+  margin-top: 80px;
+  opacity: 30%;
+  height: 150px;
+}
+
+.boxlist {
+  list-style: none;
+  font-family: sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  padding-left: 20px;
+  margin-top: 30px;
+}
+
+.tx-exp {
+  font-family: sans-serif;
+  font-size: 6px;
+  margin-bottom: 10px;
+}
+
+.soft {
+  font-family: sans-serif;
+  color: grey;
+}/*# sourceMappingURL=styles.css.map */
